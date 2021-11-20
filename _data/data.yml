@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Christon Nadar (Work in progress)
+    tagline: Research Scientist at Fraunhofer IDMT
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: christonragavan@gmail.com    
+    phone: +49 176 32996130
+    website:  #do not add http://
+    linkedin: christon-ragavan
+    xing: christon-ragavan
+    github: christon-ragavan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,62 +25,46 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently working pursuing my Ph.D. at TU Ilmenau and working as research scientist at Fraunhofer IDMT.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Media Technology
+      university: Technical University of Ilmenau
+      time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Master Thesis: Multitask learning for beat and harmony in music.
+          
+    - degree: MSc in Media Technology
+      university: Technical University of Ilmenau
+      time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Thesis: Multitask learning for beat and harmony in music.
+
+    - degree: BSc in Electronics and Media Technology
+      university: Karunya University
+      time: 2012 - 2016
+      details: |
+          - Thesis: Sound Spotlight.
+
 experiences:
-    - role: Lead Developer
+    - role: Research Scientist 
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
